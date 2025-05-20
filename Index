@@ -1,0 +1,11 @@
+<h1 id="title">WOW</h1>
+<p id="description">Description</p>
+<form id="survey-form">
+  <input type="text" id="name" placeholder="idk" required />
+  <input id="email" type="email" placeholder="idk" required>
+  <input id="number"type="number" min="5" max="30"placeholder="idk"> <label id="name-label"/>Submit <label id="email-label"/> Now<label id="number-label"/> Please <select id="dropdown"> <option>options</option><option>no</option>  <input type="radio" value="bro" name="broski"/><input type="radio" value="bro"name="broski"/>
+  <input type="checkbox" value="oh"/>
+  <input type="checkbox" value="oh"/>
+  <textarea>nooo</textarea> 
+  <input id="submit" type="submit"/>
+  </form>
